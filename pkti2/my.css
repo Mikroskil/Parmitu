@@ -1,0 +1,33 @@
+html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+}
+
+
+#halaman { width:1100px;margin:auto }    
+#header { height:125px; padding:10px;background-color:#FFFFFF;} 
+#kiri { height:800px; padding:10px;background-color:#FFFF98;float:left;width:200px; margin-top:10px;}         
+#tengah {  height:800px; padding:10px;background-color:#FFFFFF;margin-top:10px; float:right;width:860px; } 
+#float li {
+    background: #FFFFFF;
+    float: left;
+    list-style: none;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#float li a {
+    color: Blue;
+	font:bold;
+    font-variant: small-caps;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+#float li a:hover {
+  background: #FFFFFF;
+  color: red;
+}
+* CSS Document */
+
